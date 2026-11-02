@@ -1,0 +1,15 @@
+# Normalize text files to LF in the repository (Windows-safe, kills phantom diffs).
+* text=auto eol=lf
+
+# Trained checkpoints and figures are opaque blobs - never diff or merge them.
+*.pt binary
+*.pth binary
+*.png binary
+*.jpg binary
+*.zip binary
+
+# Notebooks are JSON: keep them as text so GitHub can render the notebook.
+# If you later install `nbstripout`, switch the last two lines to:
+#   *.ipynb filter=nbstripout
+#   *.ipynb diff=nbstripout
+*.ipynb text

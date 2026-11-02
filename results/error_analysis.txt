@@ -1,0 +1,19 @@
+TRUE: negative | PREDICTED: positive (P(pos) = 1.000)
+   I went to see this 3 nights ago here in Cork, Ireland. It was the world premiere of it, in the tiny cinema in the Triskel Arts Centre as part of the Cork Film Festival.  I found "Strange Fruit" to be an excellent movie. It is a bit rough around the edges, but for a low-budget movie that is to be expected! In general the acting (particularly from the main lead Kent Faulcon) is wonderful, the cinematography and direction excellent, and the script h...
+
+TRUE: negative | PREDICTED: positive (P(pos) = 1.000)
+   I must say I was disappointed with this film. Although it is well acted and directed, the underlying story simply plods along too slowly.  Granted, in another mood I would have liked it better. I did chuckle a lot, but rarely laughed out loud; and there was actually a sense of suspense to discover who won. But in contrast to another movie that my wife picked up the same day (one neither of us had heard of before) this one paled in comparison.  If...
+
+TRUE: negative | PREDICTED: positive (P(pos) = 1.000)
+   This movie was pure genius. John Waters is brilliant. It is hilarious and I am not sick of it even after seeing it about 20 times since I bought it a few months ago. The acting is great, although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movies, this is probably my favorite. I give it 9.5/10. Rent it today!...
+
+TRUE: negative | PREDICTED: positive (P(pos) = 1.000)
+   This is definitely one of the best Kung fu movies in the history of Cinema. The screenplay is really well done (which is not often the case for this type of movies) and you can see that Chuck (in one of his first role)is a great actor. The final fight with the sherif deputy in the bullring is a masterpiece!...
+
+TRUE: negative | PREDICTED: positive (P(pos) = 0.999)
+   When it was released this film caused a sensation. I watched it and was thrilled. Beautiful, usually young, naked women filmed in the classy style we knew so well from director Hamiltons photography. His photographs never become porn and the same is true for this movie. Today I saw it again and was bitterly disappointed. The soft core in extremely slow paced scenes, all filmed with some Vaseline on the lenses, actually is all there is. There is n...
+
+TRUE: negative | PREDICTED: positive (P(pos) = 0.999)
+   Masterpiece. Carrot Top blows the screen away. Never has one movie captured the essence of the human spirit quite like "Chairman of the Board." 10/10... don't miss this instant classic....
+
+Total misclassified: 3158 of 25000 (12.6%)

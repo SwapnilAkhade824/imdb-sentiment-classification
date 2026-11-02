@@ -1,0 +1,16 @@
+# Core stack used to produce the committed results.
+# Python 3.10 - 3.12 recommended.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.5
+torch==2.8.0
+
+# Dataset loader (the notebook downloads Stanford IMDB on first run).
+datasets>=3.0.0
+
+# NOTE on PyTorch builds:
+# - Google Colab GPU runtimes ship their own CUDA-enabled torch; do NOT
+#   reinstall this file there, just run the notebook cells as-is.
+# - For a local CUDA build, install from the official index instead:
+#     pip install torch --index-url https://download.pytorch.org/whl/cu124

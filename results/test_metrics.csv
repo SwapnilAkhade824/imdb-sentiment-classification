@@ -1,0 +1,2 @@
+,Accuracy,Precision,Recall,F1-score,ROC-AUC
+BiLSTM (2 layers),0.8737,0.8926,0.8496,0.8706,0.9479
